@@ -1,0 +1,52 @@
+
+.center{
+    text-align: center;
+}
+.border{
+  padding: 50px 5px !important;
+    
+ }
+.counter{
+  width: 200px;
+
+}
+.center{
+  text-align: center;
+}
+.form{
+  width: 350px !important;
+  margin-bottom: 20px;
+}
+.left{
+  margin-left: 80px;
+  margin-bottom: 10px;
+}
+.left1{
+  margin-left: 50px;
+  
+  
+}
+.left2{
+margin-left: 50px;
+}
+.img{
+  width: 430px;
+}
+.img1{
+width: 250px;
+}
+.img1:hover{
+  cursor: pointer;
+}
+.zoom{
+  width: 480px;
+}
+.zoom1{
+  width: 430px;
+}
+.zoompara{
+  font-size: 26px;
+}
+.zoompara1{
+  font-size: 16px;
+}
